@@ -1,4 +1,6 @@
 library(httr)
+library(httpuv) # manually set up the packages into R#
+
 
 # 1. Find OAuth settings for github:
 #    http://developer.github.com/v3/oauth/
